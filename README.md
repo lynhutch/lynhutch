@@ -2,14 +2,12 @@
 
 I'm a Graphic Information Technology student at Arizona State University with a passion for web and graphic design. I also have an interest in game design that stems from my love of video games. When I'm not working on a design project, I love to read, crochet, and learn new things about the world around me.
 
----
 
 ## :computer: Web Design
 
 - I first learned the basics of HTML in middle school during an IT class. I rediscovered my interest in coding when I started college.
 - Currently, I'm more proficient with front-end design, focusing on work with HTML, CSS, and Javascript.
 
----
 
 ## :art: Graphic Design
 
